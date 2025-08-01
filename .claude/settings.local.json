@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(del \"C:\\Users\\jf358\\Documents\\AGI\\mistral.py\")",
+      "Bash(rmdir:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(where claude)",
+      "Bash(claude --version)",
+      "Bash(mkdir:*)",
+      "Bash(mypy:*)",
+      "Bash(grep:*)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(find:*)",
+      "Bash(where bash)",
+      "Bash(dir)",
+      "Bash(git init:*)",
+      "Bash(del worktree)",
+      "Bash(del:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(move:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
