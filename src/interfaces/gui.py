@@ -21,6 +21,7 @@ from kivy.uix.switch import Switch
 from kivy.uix.filechooser import FileChooserListView
 from kivy.uix.progressbar import ProgressBar
 from kivy.uix.spinner import Spinner
+from kivy.uix.slider import Slider
 from kivy.graphics import Color, RoundedRectangle
 from kivy.uix.widget import Widget
 from kivy.animation import Animation
@@ -40,7 +41,8 @@ if str(src_path) not in sys.path:
     sys.path.insert(0, str(src_path))
 
 from interfaces.cli import EnhancedAGIChat
-from ai_agents.shared.user_management import get_user_manager, UserType, Permission
+from ai_agents.shared.user_management import get_user_manager, UserType, Permission, UserConfig
+import uuid
 
 kivy.require('2.0.0')
 
@@ -986,8 +988,6 @@ class ConfigPanel(BoxLayout):
     
     def add_custom_user(self, display_name, color_theme):
         """Add a custom AI user"""
-        from ai_agents.shared.user_management import UserConfig, UserType, Permission
-        import uuid
         
         user_manager = get_user_manager()
         
