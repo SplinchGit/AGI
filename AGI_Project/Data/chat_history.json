@@ -1,0 +1,297 @@
+[
+  {
+    "session_id": "20250802_121717",
+    "started_at": "2025-08-02T12:17:17.763503",
+    "participants": [
+      "James",
+      "Claude",
+      "James (Clone)"
+    ],
+    "messages": []
+  },
+  {
+    "session_id": "20250802_121649",
+    "started_at": "2025-08-02T12:16:49.489770",
+    "participants": [
+      "James",
+      "Claude",
+      "James (Clone)"
+    ],
+    "messages": [
+      {
+        "id": 1,
+        "timestamp": "2025-08-02T12:22:13.096689",
+        "sender": "James",
+        "content": "hi",
+        "responses": {}
+      },
+      {
+        "id": 2,
+        "timestamp": "2025-08-02T13:52:30.017101",
+        "sender": "James",
+        "content": "hi",
+        "responses": {
+          "Claude": {
+            "content": "Error generating response: [WinError 2] The system cannot find the file specified",
+            "timestamp": "2025-08-02T13:52:30.029056"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "timestamp": "2025-08-02T13:52:30.029067",
+        "sender": "Claude",
+        "content": "Error generating response: [WinError 2] The system cannot find the file specified",
+        "is_response_to": 2
+      },
+      {
+        "id": 4,
+        "timestamp": "2025-08-02T13:52:54.169298",
+        "sender": "James",
+        "content": "hi",
+        "responses": {
+          "Claude": {
+            "content": "Error generating response: [WinError 2] The system cannot find the file specified",
+            "timestamp": "2025-08-02T13:52:54.181134"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "timestamp": "2025-08-02T13:52:54.181144",
+        "sender": "Claude",
+        "content": "Error generating response: [WinError 2] The system cannot find the file specified",
+        "is_response_to": 4
+      },
+      {
+        "id": 6,
+        "timestamp": "2025-08-02T13:54:50.387451",
+        "sender": "James",
+        "content": "hello",
+        "responses": {
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:54:50.396775"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "timestamp": "2025-08-02T13:54:50.396785",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 6
+      },
+      {
+        "id": 8,
+        "timestamp": "2025-08-02T13:56:08.766759",
+        "sender": "James",
+        "content": "hello everyone",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: hello everyone... That reminds me - hello everyone is definitely interesting!",
+            "timestamp": "2025-08-02T13:56:08.777833"
+          },
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:56:08.796172"
+          }
+        }
+      },
+      {
+        "id": 9,
+        "timestamp": "2025-08-02T13:56:08.777843",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: hello everyone... That reminds me - hello everyone is definitely interesting!",
+        "is_response_to": 8
+      },
+      {
+        "id": 10,
+        "timestamp": "2025-08-02T13:56:08.796186",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 8
+      },
+      {
+        "id": 11,
+        "timestamp": "2025-08-02T13:56:15.488835",
+        "sender": "James",
+        "content": "what do you think about AI?",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: what do you think about AI?... That reminds me - what do you think about AI? is definitely interesting!",
+            "timestamp": "2025-08-02T13:56:15.501794"
+          },
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:56:15.520323"
+          }
+        }
+      },
+      {
+        "id": 12,
+        "timestamp": "2025-08-02T13:56:15.501802",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: what do you think about AI?... That reminds me - what do you think about AI? is definitely interesting!",
+        "is_response_to": 11
+      },
+      {
+        "id": 13,
+        "timestamp": "2025-08-02T13:56:15.520335",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 11
+      },
+      {
+        "id": 14,
+        "timestamp": "2025-08-02T13:56:41.771415",
+        "sender": "James",
+        "content": "what do you think about artificial intelligence?",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: what do you think about AI? | what do you think about artificial intelligence?... That reminds me - what do you think about artificial intelligence? is definitely interesting!",
+            "timestamp": "2025-08-02T13:56:41.781375"
+          },
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:56:41.801653"
+          }
+        }
+      },
+      {
+        "id": 15,
+        "timestamp": "2025-08-02T13:56:41.781398",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: what do you think about AI? | what do you think about artificial intelligence?... That reminds me - what do you think about artificial intelligence? is definitely interesting!",
+        "is_response_to": 14
+      },
+      {
+        "id": 16,
+        "timestamp": "2025-08-02T13:56:41.801664",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 14
+      },
+      {
+        "id": 17,
+        "timestamp": "2025-08-02T13:57:05.265175",
+        "sender": "James",
+        "content": "what are your thoughts on AI?",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: what do you think about AI? | what do you think about artificial intelligence? | what are your thoug... That reminds me - what are your thoughts on AI? is definitely interesting!",
+            "timestamp": "2025-08-02T13:57:05.281954"
+          },
+          "Claude": {
+            "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?",
+            "timestamp": "2025-08-02T13:57:05.299657"
+          }
+        }
+      },
+      {
+        "id": 18,
+        "timestamp": "2025-08-02T13:57:05.281977",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: what do you think about AI? | what do you think about artificial intelligence? | what are your thoug... That reminds me - what are your thoughts on AI? is definitely interesting!",
+        "is_response_to": 17
+      },
+      {
+        "id": 19,
+        "timestamp": "2025-08-02T13:57:05.299671",
+        "sender": "Claude",
+        "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?",
+        "is_response_to": 17
+      },
+      {
+        "id": 20,
+        "timestamp": "2025-08-02T13:57:30.825210",
+        "sender": "James",
+        "content": "hi",
+        "responses": {
+          "James (Clone)": {
+            "content": "Hey there! James Clone here. Good to see you in the chat!",
+            "timestamp": "2025-08-02T13:57:30.839018"
+          },
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:57:30.845231"
+          }
+        }
+      },
+      {
+        "id": 21,
+        "timestamp": "2025-08-02T13:57:30.839041",
+        "sender": "James (Clone)",
+        "content": "Hey there! James Clone here. Good to see you in the chat!",
+        "is_response_to": 20
+      },
+      {
+        "id": 22,
+        "timestamp": "2025-08-02T13:57:30.845242",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 20
+      },
+      {
+        "id": 23,
+        "timestamp": "2025-08-02T13:57:59.161417",
+        "sender": "James",
+        "content": "Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that?",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instan... That reminds me - Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that? is definitely interesting!",
+            "timestamp": "2025-08-02T13:57:59.179621"
+          },
+          "Claude": {
+            "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+            "timestamp": "2025-08-02T13:57:59.198068"
+          }
+        }
+      },
+      {
+        "id": 24,
+        "timestamp": "2025-08-02T13:57:59.179654",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instan... That reminds me - Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that? is definitely interesting!",
+        "is_response_to": 23
+      },
+      {
+        "id": 25,
+        "timestamp": "2025-08-02T13:57:59.198079",
+        "sender": "Claude",
+        "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?",
+        "is_response_to": 23
+      },
+      {
+        "id": 26,
+        "timestamp": "2025-08-02T13:58:51.210400",
+        "sender": "James",
+        "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?",
+        "responses": {
+          "James (Clone)": {
+            "content": "Based on what I remember: Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty... That reminds me - Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please? is definitely interesting!",
+            "timestamp": "2025-08-02T13:58:51.234175"
+          },
+          "Claude": {
+            "content": "That's thoughtful! I'm currently running in fallback mode, but I'm still here to chat and help however I can.",
+            "timestamp": "2025-08-02T13:58:51.250904"
+          }
+        }
+      },
+      {
+        "id": 27,
+        "timestamp": "2025-08-02T13:58:51.234196",
+        "sender": "James (Clone)",
+        "content": "Based on what I remember: Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty... That reminds me - Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please? is definitely interesting!",
+        "is_response_to": 26
+      },
+      {
+        "id": 28,
+        "timestamp": "2025-08-02T13:58:51.250914",
+        "sender": "Claude",
+        "content": "That's thoughtful! I'm currently running in fallback mode, but I'm still here to chat and help however I can.",
+        "is_response_to": 26
+      }
+    ]
+  }
+]

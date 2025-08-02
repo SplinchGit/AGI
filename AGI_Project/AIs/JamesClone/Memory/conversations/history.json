@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-08-02T13:56:08.766774",
+    "sender": "James",
+    "content": "hello everyone"
+  },
+  {
+    "timestamp": "2025-08-02T13:56:08.796194",
+    "sender": "Claude",
+    "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-08-02T13:56:15.488866",
+    "sender": "James",
+    "content": "what do you think about AI?"
+  },
+  {
+    "timestamp": "2025-08-02T13:56:15.520342",
+    "sender": "Claude",
+    "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-08-02T13:56:41.771431",
+    "sender": "James",
+    "content": "what do you think about artificial intelligence?"
+  },
+  {
+    "timestamp": "2025-08-02T13:56:41.801673",
+    "sender": "Claude",
+    "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:05.265190",
+    "sender": "James",
+    "content": "what are your thoughts on AI?"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:05.299681",
+    "sender": "Claude",
+    "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:30.825226",
+    "sender": "James",
+    "content": "hi"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:30.845248",
+    "sender": "Claude",
+    "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:59.161430",
+    "sender": "James",
+    "content": "Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that?"
+  },
+  {
+    "timestamp": "2025-08-02T13:57:59.198086",
+    "sender": "Claude",
+    "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-08-02T13:58:51.210416",
+    "sender": "James",
+    "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?"
+  },
+  {
+    "timestamp": "2025-08-02T13:58:51.250920",
+    "sender": "Claude",
+    "content": "That's thoughtful! I'm currently running in fallback mode, but I'm still here to chat and help however I can."
+  }
+]

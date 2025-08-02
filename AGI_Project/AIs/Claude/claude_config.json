@@ -1,0 +1,6 @@
+{
+  "name": "Claude",
+  "model": "claude-3-opus-20240229",
+  "max_tokens": 4096,
+  "temperature": 0.7
+}

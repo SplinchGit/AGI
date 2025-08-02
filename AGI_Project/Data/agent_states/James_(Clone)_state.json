@@ -1,0 +1,185 @@
+{
+  "conversation_history": [
+    {
+      "timestamp": "2025-08-02T13:56:08.766774",
+      "sender": "James",
+      "content": "hello everyone"
+    },
+    {
+      "timestamp": "2025-08-02T13:56:08.796194",
+      "sender": "Claude",
+      "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+    },
+    {
+      "timestamp": "2025-08-02T13:56:15.488866",
+      "sender": "James",
+      "content": "what do you think about AI?"
+    },
+    {
+      "timestamp": "2025-08-02T13:56:15.520342",
+      "sender": "Claude",
+      "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+    },
+    {
+      "timestamp": "2025-08-02T13:56:41.771431",
+      "sender": "James",
+      "content": "what do you think about artificial intelligence?"
+    },
+    {
+      "timestamp": "2025-08-02T13:56:41.801673",
+      "sender": "Claude",
+      "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:05.265190",
+      "sender": "James",
+      "content": "what are your thoughts on AI?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:05.299681",
+      "sender": "Claude",
+      "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:30.825226",
+      "sender": "James",
+      "content": "hi"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:30.845248",
+      "sender": "Claude",
+      "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:59.161430",
+      "sender": "James",
+      "content": "Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:59.198086",
+      "sender": "Claude",
+      "content": "Hello! I'm Claude. It's nice to meet you! How can I help you today?"
+    },
+    {
+      "timestamp": "2025-08-02T13:58:51.210416",
+      "sender": "James",
+      "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?"
+    },
+    {
+      "timestamp": "2025-08-02T13:58:51.250920",
+      "sender": "Claude",
+      "content": "That's thoughtful! I'm currently running in fallback mode, but I'm still here to chat and help however I can."
+    }
+  ],
+  "experiences": [
+    {
+      "timestamp": "2025-08-02T13:56:08.766777",
+      "content": "hello everyone",
+      "keywords": [
+        "hello",
+        "everyone"
+      ]
+    },
+    {
+      "timestamp": "2025-08-02T13:56:15.488869",
+      "content": "what do you think about AI?",
+      "keywords": [
+        "think",
+        "about",
+        "what"
+      ]
+    },
+    {
+      "timestamp": "2025-08-02T13:56:41.771434",
+      "content": "what do you think about artificial intelligence?",
+      "keywords": [
+        "intelligence?",
+        "about",
+        "artificial",
+        "think",
+        "what"
+      ]
+    },
+    {
+      "timestamp": "2025-08-02T13:57:05.265193",
+      "content": "what are your thoughts on AI?",
+      "keywords": [
+        "thoughts",
+        "your",
+        "what"
+      ]
+    },
+    {
+      "timestamp": "2025-08-02T13:57:30.825229",
+      "content": "hi",
+      "keywords": []
+    },
+    {
+      "timestamp": "2025-08-02T13:57:59.161434",
+      "content": "Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that?",
+      "keywords": [
+        "bags",
+        "going...",
+        "shit",
+        "we're",
+        "gunna"
+      ]
+    },
+    {
+      "timestamp": "2025-08-02T13:58:51.210419",
+      "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?",
+      "keywords": [
+        "model",
+        "james",
+        "canvas",
+        "strange,",
+        "blank"
+      ]
+    }
+  ],
+  "knowledge_base": {
+    "1083b9a7": {
+      "content": "what are your thoughts on AI?",
+      "source": "James",
+      "timestamp": "2025-08-02T13:57:05.266004",
+      "keywords": [
+        "thoughts",
+        "your",
+        "what"
+      ]
+    },
+    "a0c55905": {
+      "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?",
+      "source": "Claude",
+      "timestamp": "2025-08-02T13:57:05.299707",
+      "keywords": [
+        "around",
+        "aspects",
+        "questions",
+        "myself,",
+        "find"
+      ]
+    },
+    "070f0fd5": {
+      "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?",
+      "source": "James",
+      "timestamp": "2025-08-02T13:58:51.211795",
+      "keywords": [
+        "model",
+        "james",
+        "canvas",
+        "strange,",
+        "blank"
+      ]
+    }
+  },
+  "config": {
+    "name": "James (Clone)",
+    "type": "qwen",
+    "api_key_env": "QWEN_API_KEY",
+    "model": "qwen-plus",
+    "max_tokens": 4096,
+    "temperature": 0.8,
+    "personality_file": "AIs/JamesClone/personality.json"
+  }
+}

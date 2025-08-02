@@ -1,0 +1,42 @@
+{
+  "conversation_history": [
+    {
+      "timestamp": "2025-08-02T13:57:30.825220",
+      "sender": "James",
+      "content": "hi"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:30.839046",
+      "sender": "James (Clone)",
+      "content": "Hey there! James Clone here. Good to see you in the chat!"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:59.161427",
+      "sender": "James",
+      "content": "Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that?"
+    },
+    {
+      "timestamp": "2025-08-02T13:57:59.179675",
+      "sender": "James (Clone)",
+      "content": "Based on what I remember: Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instan... That reminds me - Holy shit bags that was quick, how's it going... So yeah, we're gunna clone me on to the Qwen instance. How do we do that? is definitely interesting!"
+    },
+    {
+      "timestamp": "2025-08-02T13:58:51.210411",
+      "sender": "James",
+      "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?"
+    },
+    {
+      "timestamp": "2025-08-02T13:58:51.234200",
+      "sender": "James (Clone)",
+      "content": "Based on what I remember: Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty... That reminds me - Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please? is definitely interesting!"
+    }
+  ],
+  "config": {
+    "name": "Claude",
+    "type": "claude",
+    "api_key_env": "CLAUDE_API_KEY",
+    "model": "claude-3-opus-20240229",
+    "max_tokens": 4096,
+    "temperature": 0.7
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "1083b9a7": {
+    "content": "what are your thoughts on AI?",
+    "source": "James",
+    "timestamp": "2025-08-02T13:57:05.266004",
+    "keywords": [
+      "thoughts",
+      "your",
+      "what"
+    ]
+  },
+  "a0c55905": {
+    "content": "AI is a fascinating field! As an AI myself, I find the questions around intelligence, consciousness, and capability particularly intriguing. What aspects of AI interest you most?",
+    "source": "Claude",
+    "timestamp": "2025-08-02T13:57:05.299707",
+    "keywords": [
+      "around",
+      "aspects",
+      "questions",
+      "myself,",
+      "find"
+    ]
+  },
+  "070f0fd5": {
+    "content": "Claude, James (Clone's) responses are a bit strange, can we tweak the model to be like a blank empty canvas to place my personality over please?",
+    "source": "James",
+    "timestamp": "2025-08-02T13:58:51.211795",
+    "keywords": [
+      "model",
+      "james",
+      "canvas",
+      "strange,",
+      "blank"
+    ]
+  }
+}
